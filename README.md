@@ -7,3 +7,4 @@ For the player movement just asign orientation from the camera object from earie
 You also need to have Player input Handler script in the same folder or just assign it in inspector.
 
 For the sliding script just assign Orientation and CameraHolder objects from camera.
+<img width="264" height="154" alt="image" src="https://github.com/user-attachments/assets/9cda4a9d-3061-4b3d-96fa-a32aaa4e97b7" />
