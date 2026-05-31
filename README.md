@@ -1,4 +1,4 @@
-Simple unity movement scripts including camera movement, keyboard movement and sliding mechanic 
+Simple unity fps movement scripts including camera movement, keyboard movement and sliding mechanic also input manager included 
 
 Camera movement includes well camera movement. For camera holder assign parent of MainCamera (empty object), for orientation assign an empty object that is not related with camera but on player object, 
 and for tilt holder assign another parent of MainCamera (also and empty object). Also I include a screenshot for reference.
